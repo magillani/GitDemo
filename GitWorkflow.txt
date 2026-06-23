@@ -1,0 +1,12 @@
+What is Repository: 
+ -It is storage location for code and its history.
+ -It can be local or remote
+ -It track all changes of a project's files
+
+Working Directory:
+ -It location of the source code.
+ -Changes made here,aren't yet saved in Git history
+
+Local Repository: Local Computer
+
+Remote Repository: Remote Hosting Platform
